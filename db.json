@@ -1,0 +1,67 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "portable charger",
+      "description": "20K Battery Pack with PowerIQ Technology and USB-C (Recharging Only) for iPhone 15/15 Plus/15 Pro/15 Pro Max, iPhone 14/13/12 Series, Samsung Galaxy",
+      "price": "69.95",
+      "category": "electronics"
+    },
+    {
+      "id": 2,
+      "name": "duffle coat",
+      "description": "Allegra K Women's Long Coats Hooded Toggle Button Up Long Sleeves Pocket Winter Outwear Duffle Coats",
+      "price": "279.55",
+      "category": "clothing"
+    },
+    {
+      "id": 3,
+      "name": "sectional sofa",
+      "description": "Jarenie Convertible Sectional Sofa with Reversible Chaise, 3-Seat L Shaped Couch Modern Linen Fabric Sofa for Living Room",
+      "price": "823.79",
+      "category": "home appliances"
+    },
+    {
+      "id": 4,
+      "name": "bookshelve",
+      "description": "Large Modern Bookcase with Metal Frame, Wide Display Bookshelf for Bedroom, Living Room",
+      "price": "223.35",
+      "category": "household furnitures"
+    },
+    {
+      "id": 5,
+      "name": "Fine Art Morning artwork",
+      "description": "Morning Sonata Artwork by Beata Czyzowska Young, 16 by 20-Inch, Black Frame",
+      "price": "79.00",
+      "category": "paintings"
+    },
+    {
+      "name": "canapé",
+      "description": "très confortable",
+      "price": "5499",
+      "category": "ameublement",
+      "id": 6
+    },
+    {
+      "name": "armoire",
+      "description": "très spacieuse",
+      "price": "549",
+      "category": "ameublement",
+      "id": 7
+    },
+    {
+      "name": "Vélo",
+      "description": "De belles balades à bord de ce vélo vous attendent...",
+      "price": "457.89",
+      "category": "equipement",
+      "id": 8
+    },
+    {
+      "name": "machine à laver",
+      "description": "offre plusieurs cycles de lavages et différents types de lavages",
+      "price": "1399.99",
+      "category": "électroménager",
+      "id": 9
+    }
+  ]
+}
